@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N-bop
-- 👀 I’m interested in learning programming via Jupyter Notebook and Python
+- 👀 I’m interested in learning Jupyter Notebook and Python
 - 🌱 I’m currently learning some Python and looking forward to learning more about data analytics
 
 <!---
